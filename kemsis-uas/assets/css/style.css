@@ -10,3 +10,63 @@ h1, h2 {
 .form-control {
     margin-bottom: 15px;
 }
+
+body {
+    background-color: #343a40; 
+    color: #fff;
+}
+
+.navbar {
+    background-color: #212529 !important; 
+}
+
+.container {
+    margin-top: 10px;
+}
+
+.col-md-6 {
+    background-color: #212529; 
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1,
+h2 {
+    color: #ffc107;
+}
+
+button[type="submit"] {
+    background-color: #ffc107;
+    border: none;
+}
+
+button[type="submit"]:hover {
+    background-color: #ffca28; 
+}
+
+.form-group label {
+    color: #fff; 
+}
+
+.form-control {
+    background-color: #495057;
+    color: #fff;
+}
+
+.form-control:focus {
+    background-color: #343a40; 
+    border-color: #ffc107; 
+}
+
+hr {
+    border-top: 1px solid #ffc107; 
+}
+
+footer {
+    background-color: #212529; 
+    color: #fff; 
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+}
